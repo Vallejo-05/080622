@@ -1,0 +1,13 @@
+.botao{
+    margin-top: 0.6rem;
+    width: 115px;
+    margin-bottom: 10px;
+}
+
+.check{
+    margin-top: 0.6rem;
+}
+
+textarea{
+    resize: none;
+}
